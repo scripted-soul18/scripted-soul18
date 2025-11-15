@@ -4,7 +4,7 @@
 <h1 align="center"> Hi, I'm Priya 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=FF69B4&center=true&vCenter=true&width=600&lines=Coder+builder+computer+engineer;Tech+Enthusiast+🚀;Learning+Datas+cience+Machine+learning+🌐;Open+Source+Learner+💡" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=FF69B4&center=true&vCenter=true&width=600&lines=Coder,+builder,+computer+engineer👩‍💻;Tech+Enthusiast+🚀;Learning+Datas+cience+Machine+learning+🌐;Open+Source+Learner+💡" />
 </p>
 
 ---
