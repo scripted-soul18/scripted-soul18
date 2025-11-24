@@ -40,5 +40,5 @@ priya-gore-07395a355
 
 ---
 
-<p align="center">⭐ If you like my profile, consider giving a star to my repositories! ⭐</p>
+<p align="center">⭐ Ok, HAVE A GREAT CODE!! ⭐</p>
 
