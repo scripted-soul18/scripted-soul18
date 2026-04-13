@@ -33,7 +33,7 @@
 ## 📫 Connect With Me
 
 📧 **Email:** buglessbeauty369@gmail.com 
-🌍 **Portfolio (coming soon!)**
+🌍 **Portfolio:** https://priyagore.netlify.app/
 👩‍💻 **Linkedin:** www.linkedin.com/in/
 priya-gore-07395a355 
 
